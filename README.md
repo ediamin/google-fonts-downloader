@@ -19,4 +19,4 @@ assets/
     ├── DXI1ORHCpsQm3Vp6mXoaTYnF5uFdDttMLvmWuJdhhgs.ttf
     └── k3k702ZOKiLJc3WVjuplzInF5uFdDttMLvmWuJdhhgs.ttf
 ```
-So the path in the font in the css file is `url(../fonts/font-file.ttf)`. So if you use different directory structure to manage your assets the change the **line no 57** in downloader.php.
+So the path in the font in the css file is `url(../fonts/font-file.ttf)`. So if you use different directory structure to manage your assets, then change the **line no 57** in downloader.php.
